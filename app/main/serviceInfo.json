@@ -1,0 +1,17 @@
+{
+    "serviceStatus": "Running",
+    "serviceName": "ServiceName",
+    "serviceDescription": "ServiceDescription",
+    "serviceVersion": "1.0",
+    "serviceId": "ServiceId",
+    "serviceType": "ServiceType",
+    "serviceURL": "ServiceURL",
+    "apiVersion": "apiVersion",
+    "availableApiVersions": [
+        {
+            "version": "1",
+            "description": "Version 1 of the API",
+            "path": "v1"
+        }
+    ]
+}
